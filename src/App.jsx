@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>hi sardar ali is the devops engineer </h1>
+      <h1> Devops engineering </h1>
     </>
   )
 }
